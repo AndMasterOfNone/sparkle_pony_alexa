@@ -5,4 +5,4 @@ package-lock.json
 
 src/testing*
 
-src/Archive.zip
+*.zip
