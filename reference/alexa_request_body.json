@@ -1,0 +1,59 @@
+//  HTTP Header
+//
+//  POST / HTTP/1.1
+//  Content-Type : application/json;charset=UTF-8
+//  Host : your.application.endpoint
+//  Content-Length :
+//  Accept : application/json
+//  Accept-Charset : utf-8
+//  Signature: 
+//  SignatureCertChainUrl: https://s3.amazonaws.com/echo.api/echo-api-cert.pem
+//  Request Body Syntax
+//  The request body sent to your service is in JSON format.
+{
+  "version": "string",
+  "session": {
+    "new": true,
+    "sessionId": "string",
+    "application": {
+      "applicationId": "string"
+    },
+    "attributes": {
+      "string": {}
+    },
+    "user": {
+      "userId": "string",
+        "permissions": {
+          "consentToken": "string"
+      },    
+      "accessToken": "string"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "string"
+      },
+      "user": {
+        "userId": "string",
+        "permissions": {
+          "consentToken": "string"
+      },    
+        "accessToken": "string"
+      },
+      "device": {
+        "deviceId": "string",   
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      },
+      "apiEndpoint": "string"
+    },
+    "AudioPlayer": {
+      "token": "string",
+      "offsetInMilliseconds": 0,
+      "playerActivity": "string"
+    }
+  },
+  "request": {}
+}

@@ -1,0 +1,101 @@
+// Generated in the beta interface, copy and pasted from the 
+// Code Editor tab.
+
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "EELiterally",
+      "samples": [
+        "can you even",
+        "can you literally even"
+      ],
+      "slots": []
+    },
+    {
+      "name": "EERupaul",
+      "samples": [
+        "should i shan tay",
+        "should i shasay",
+        "shan tay",
+        "sashay",
+        "lip sync for your life"
+      ],
+      "slots": []
+    },
+    {
+      "name": "EESpicy",
+      "samples": [
+        "tell me what you want",
+        "what do you really really want",
+        "what do you want",
+        "what you really really want"
+      ],
+      "slots": []
+    },
+    {
+      "name": "EEWth",
+      "samples": [
+        "what the hell",
+        "what the heck",
+        "what is going on",
+        "what's going on"
+      ],
+      "slots": []
+    },
+    {
+      "name": "MakeComedyName",
+      "samples": [
+        "Am I funny",
+        "Do you think I'm funny",
+        "I'm a comedy queen",
+        "I am a comedy queen",
+        "I need a comedy queen name",
+        "I need a comedy name",
+        "to make me a comedy name",
+        "to make me a comedy queen name"
+      ],
+      "slots": []
+    },
+    {
+      "name": "MakeGenericName",
+      "samples": [
+        "to give me a drag name",
+        "give me a name",
+        "drag name",
+        "i need a name",
+        "for a name",
+        "name please",
+        "name",
+        "name me",
+        "to name me"
+      ],
+      "slots": []
+    },
+    {
+      "name": "MakePagentName",
+      "samples": [
+        "am i pretty",
+        "am i good looking",
+        "do you think i'm pretty",
+        "if you want my body and you think i'm sexy come on sugar let me know",
+        "should i work the runway",
+        "i need a pageant name",
+        "i need a pageant queen name",
+        "to make me a pageant queen name"
+      ],
+      "slots": []
+    }
+  ]
+}

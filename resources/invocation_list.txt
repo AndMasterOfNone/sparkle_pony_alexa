@@ -1,0 +1,71 @@
+Invocations
+
+EASTER EGGS
+  Ask Sparkle Pony can you even?
+    No, I literally cannot.
+    I. Can. Not. Even.
+
+  Ask Sparkle Pony what the hell?
+    I know, right? For serious!
+    Preach it!
+
+  Ask Sparkle Pony tell me what you want, what you really really want.
+    I want you to stop making 90s references.
+    Oogie, Woogie, Boogie. Were those the words? It was my grade school prom theme song, so I can't really remember.
+
+  Ask Sparkle Pony if I should shan tay?
+  Ask Sparkle Pony if I should sashay?
+    I'm pretty sure those are trademarked. You'd need to ask Mama Ru's legal team.
+
+    UNKNOWN INPUTS
+      Yeah, sure, go with that.
+      Totally. And you know I'm not just saying it.
+      Answer unclear, ask again later. Next time in pig latin.
+      Did you want a comedy queen name, a pageant queen name, or just to chat?
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+COMEDY QUEEN
+  -- Am I funny?
+  -- Do you think I'm funny?
+  -- I'm a comedy queen.
+  -- I am a comedy queen.
+  -- I need a comedy queen name.
+  -- I need a comedy name.
+  -- To make me a comedy drag name.
+
+  [Preambles]
+  I think you're funny, and I live in a cloud
+  You can always make me laugh. I mean, those shoes?
+  ""
+
+
+
+PAGEANT QUEEN
+  -- Am I pretty?
+  -- Am I good looking?
+  -- Do you think I'm pretty?
+  -- If you want my body, and you think I'm sexy, come on sugar let me know
+  -- Should I work the runway?
+  -- I need a pageant queen name.
+  -- I need a pageant name.
+  -- To make me a pageant drag name.
+
+  [Preambles]
+  The magic mirror has forgotten that other one's name.
+  You should model. Really!
+  ""
+
+CATCH ALL
+  -- To give me a drag name.
+  -- Drag name.
+  -- I need a drag name.
+  -- For a name.
+  -- Name, please.
+  -- Name.
+
+  [Preambles]
+  Hmmm. I think you should go with
+  Alright
+  ""

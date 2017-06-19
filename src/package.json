@@ -1,0 +1,14 @@
+{
+  "name": "sparkle_pony_alexa",
+  "version": "1.0.0",
+  "description": "My contribution to the Alexa skill-verse. Lots of sparkle. Lots of rainbows. Some pony.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris lihosit",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10"
+  }
+}
