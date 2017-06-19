@@ -19,8 +19,8 @@ Array.prototype.sample = function() {
 
 // Functions
 function entitled() {
-  seconds = new Date().getSeconds() - 20;     // shifting to left a bit to reduce
-  chance  = Math.floor( Math.random() * 60 ); // random seconds per minute
+  var seconds = new Date().getSeconds() - 20;     // shifting to left a bit to reduce
+  var chance  = Math.floor( Math.random() * 60 ); // random seconds per minute
   return seconds > chance;
 }
 
