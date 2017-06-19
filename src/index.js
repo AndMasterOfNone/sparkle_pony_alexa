@@ -76,6 +76,9 @@ var help_prompt = "Which kind of name do you need?";
 
 // Create Intent Handlers
 var handlers = {
+    'LaunchRequest': function () {
+      this.emit('AMAZON.HelpIntent');    
+    },
     'EELiterallyIntent': function() {
       var response = ee.LITERALLY.sample();
       this.emit( ':tellWithCard', skill_name, response);
